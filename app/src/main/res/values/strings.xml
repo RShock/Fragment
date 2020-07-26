@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="android_text">Android是一个移动端操作系统。\n可以使用Java,Kotlin,C/C++语言进行开发</string>
+    <string name="android">Android</string>
+    <string name="java">java</string>
+    <string name="f2text">一个新的Fragment</string>
+</resources>
