@@ -1,4 +1,4 @@
 # Fragment
 
-#[](f1.png)
-#[](f2.png)
+![](f1.png)
+![](f2.png)
